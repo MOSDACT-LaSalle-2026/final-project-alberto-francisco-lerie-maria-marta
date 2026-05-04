@@ -1,7 +1,7 @@
 # Language Visualizer
 **MDACT Project — 1st Block**
 
-##Authors:
+## Authors:
 Alberto Benavent Ramón, Francisco A. Rodríguez. Lerie Pemanagpo, María Spínola Lasso and Marta Alavedra Marion
 
 A real-time particle-based language visualizer that receives semantic parameters from an LLM via JSON and renders them as geometric formations in 3D space, accompanied by generative MIDI chords.
