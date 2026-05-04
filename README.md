@@ -22,7 +22,7 @@ Each word processed by the LLM is described by 7 semantic parameters. These para
 
 ```
 project/
-├── final_project_block1.pde  — Main sketch: setup, draw, camera, keyboard
+├── language_viz.pde  — Main sketch: setup, draw, camera, keyboard
 ├── Config.pde                — Global variables and shared utilities
 ├── JSONLoader.pde            — Watches input.json and updates parameters
 ├── SymbolSystem.pde          — SymbolFormation + SymParticle (particle geometry)
@@ -40,6 +40,8 @@ project/
     └── poem_words.json       — Full poem word list with parameters
 └── prompts/
     └── haiku_art_system_prompt.md  — System prompt sent to Claude with each request
+└── Reaper/
+    └── miditest.rpp — Reaper project file
 ```
 
 ---
