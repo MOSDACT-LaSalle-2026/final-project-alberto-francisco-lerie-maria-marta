@@ -22,7 +22,7 @@ Each word processed by the LLM is described by 7 semantic parameters. These para
 
 ```
 project/
-├── language_viz.pde  — Main sketch: setup, draw, camera, keyboard
+├── language_viz.pde          — Main sketch: setup, draw, camera, keyboard
 ├── Config.pde                — Global variables and shared utilities
 ├── JSONLoader.pde            — Watches input.json and updates parameters
 ├── SymbolSystem.pde          — SymbolFormation + SymParticle (particle geometry)
